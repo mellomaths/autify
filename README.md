@@ -1,2 +1,3 @@
 # autify
-Automating Playlists creation based on what you like and other things
+
+Spotify playlists based on what you like and other things
